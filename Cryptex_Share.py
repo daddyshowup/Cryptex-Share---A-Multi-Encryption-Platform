@@ -1,5 +1,10 @@
 # gmail = admin@encryption.suite
 # pass = Admin@123#
+# ------------------------------------- #
+
+# BY Rohit Shrestha --- <>
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext, simpledialog
 import matplotlib.pyplot as plt
