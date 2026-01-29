@@ -2,7 +2,9 @@
 # pass = Admin@123#
 # ------------------------------------- #
 
-# BY Rohit Shrestha --- <>
+# BY Rohit Shrestha --- <> 
+# Tool Based on Encryption Algorithm and Sharing........ {}
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 import tkinter as tk
