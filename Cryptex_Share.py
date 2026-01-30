@@ -3,7 +3,7 @@
 # -------------------------------------- #
 
 # BY Rohit Shrestha --- <> 
-# Tool Based on Encryption Algorithm and Sharing # ....... {}
+# Tool Based on Encryption Algorithm and Sharing # ......... {}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
@@ -1852,7 +1852,7 @@ class AnalyticsDashboard:
         activities_frame = ttk.LabelFrame(left_column, text="🚨 Recent Suspicious Activities", padding=10)
         activities_frame.pack(fill='x', padx=10, pady=5)
         
-        self.activities_text = scrolledtext.ScrolledText(activities_frame, height=6, bg='black', fg='#00ff00', wrap=tk.WORD)
+        self.activities_text = scrolledtext.ScrolledText(activities_frame, height=6, bg='black', fg="#ff0000", wrap=tk.WORD)
         self.activities_text.pack(fill='both', expand=True)
         self.activities_text.config(state='disabled')
 
