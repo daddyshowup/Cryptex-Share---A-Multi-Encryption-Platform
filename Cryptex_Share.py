@@ -3,7 +3,7 @@
 # -------------------------------------- #
 
 # BY Rohit Shrestha --- <> 
-# Tool Based on Encryption Algorithm and Sharing ## ....... {}
+# Tool Based on Encryption Algorithm and Sharing # ....... {}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
@@ -2798,7 +2798,7 @@ class ModernTkinterGUI:
         self.login_attempts_label.pack(pady=5)
         
         # Admin login hint
-        ttk.Label(login_frame, text="Developer 👨‍💻 ®️❓", 
+        ttk.Label(login_frame, text="Developer Rohit 👨‍💻 ®️❓", 
                  font=('Arial', 8), foreground='gray').pack(pady=5)
         
         login_btn = ttk.Button(login_frame, text="Login", style='Modern.TButton',
