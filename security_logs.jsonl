@@ -1,0 +1,4 @@
+{"timestamp": 1769714655.580824, "type": "successful_login", "details": {"user": "admin"}}
+{"timestamp": 1769714696.6762004, "type": "failed_login", "details": {"user": "admin"}}
+{"timestamp": 1769714699.9568243, "type": "failed_login", "details": {"user": "admin"}}
+{"timestamp": 1769714704.6053321, "type": "successful_login", "details": {"user": "admin"}}

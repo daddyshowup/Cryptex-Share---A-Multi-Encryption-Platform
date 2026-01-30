@@ -1,11 +1,11 @@
 # gmail = admin@encryption.suite
 # pass = Admin@123#
-# ------------------------------------- #
+# -------------------------------------- #
 
 # BY Rohit Shrestha --- <> 
-# Tool Based on Encryption Algorithm and Sharing ## ........ {}
+# Tool Based on Encryption Algorithm and Sharing ## ....... {}
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext, simpledialog
