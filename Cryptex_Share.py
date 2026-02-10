@@ -5,7 +5,7 @@
 # BY Rohit Shrestha --- <> 
 # Tool Based on Encryption Algorithm and Sharing # .......... {}
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext, simpledialog
