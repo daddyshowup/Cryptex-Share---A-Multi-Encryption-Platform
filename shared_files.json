@@ -1,1 +1,44 @@
-{}
+{
+  "admin@encryption.suite": {
+    "8ce0f1e99d19b6af9261714b3c8f2642": {
+      "sender": "cli_user",
+      "encrypted_data_b64": "gASVHwEAAAAAAAB9lCiMBHNhbHSUQxADCxRFzszx3c6JBlPwmNJ7lIwCaXaUQxDLnJX3LrkNzoFHvGPmHFfJlIwOZW5jcnlwdGVkX2RhdGGUQzrACUx4/FLr04uIvV0wxJDNXQo/2BTlmjljafPhw97R6CteztvihDhcyOyA3xoY4pm+s8APcE7jzQoUlIwJYWxnb3JpdGhtlIwDQUVTlIwEbW9kZZSMA0dDTZSMEW9yaWdpbmFsX2ZpbGVuYW1llIwJaGVsbG8udHh0lIwJZmlsZV9zaXpllEs6jBFlbmNyeXB0aW9uX21ldGhvZJSMCHBhc3N3b3JklIwJdGltZXN0YW1wlEdB2mMX/cHSk4wDdGFnlEMQe5nEkjb/RWTiPcv2YQWsVZR1Lg==",
+      "timestamp": 1770807287.0284774,
+      "metadata": {
+        "sender": "cli_user",
+        "sender_name": "CLI User",
+        "encryption_method": "symmetric_password",
+        "algorithm": "AES-GCM",
+        "timestamp": 1770807287.0284774,
+        "one_time": false
+      },
+      "downloaded": false,
+      "viewed": true,
+      "one_time": false,
+      "access_count": 5,
+      "corrupted": false,
+      "last_access_time": 1770810423.8846958
+    },
+    "07f0470119e54068f0875f55c5913a0d": {
+      "sender": "rohit@gmail.com",
+      "encrypted_data_b64": "W7mmL8y9izJVJw6OIkXWrtu8u6N3mzxZ8v9inZ/sMjlPweA6BDRiRZy2b/WB7TBIu6KXZeFGyAau7WlhgJ1COFdFyKGPMXIAFVwk3WVNnfzB6a1mwWg9AyqLxSWpIY5RUZdNA9wvF9Ai+BuVifGLK197Z8dNoch8w7Sm/DEUl0O0HDFaAIInUzDxGjPSAjfQE9OWFL5aYpxzcVPy3atljUoJ3x6qLDqIzCYaOCJWyI+3ayIWZzRqNMRGzI7lQsTjYU4+JzDuadyf0V2ZuA72bIC18dalwRzUdBCRi+RtOnqbO4SBaw83tLCt9UK7Mc7BH1nj3MfjnYIrdMlS173c5LXX1VcNYLcaYnMPDhvVYB/pwAE+ItTiKf2TW9I436rtk72xEi/eyr5FRw==",
+      "timestamp": 1770828857.1225083,
+      "metadata": {
+        "sender": "rohit@gmail.com",
+        "sender_name": "Rohit_Stha",
+        "message": "This is a One time Accessable file.",
+        "encryption_method": "password",
+        "algorithm": "AES",
+        "mode": "GCM",
+        "timestamp": 1770828857.112743,
+        "one_time": true
+      },
+      "downloaded": true,
+      "viewed": true,
+      "one_time": true,
+      "access_count": 2,
+      "corrupted": true,
+      "last_access_time": 1770829248.9499557
+    }
+  }
+}
