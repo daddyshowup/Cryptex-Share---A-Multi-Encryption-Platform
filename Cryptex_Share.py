@@ -425,7 +425,7 @@ class UserManager:
             'active_users': sum(1 for u in users.values() if u.get('active', True)),
             'admin_users': sum(1 for u in users.values() if u.get('is_admin', False)),
             'total_logins': sum(u.get('login_count', 0) for u in users.values()),
-            'recent_users': sum(1 for u in users.values() if u.get('last_login', 0) > time.time() - 86400),
+            'recent_users': sum(1 for u in users.values() if u.get('last_login') or 0) > time.time() - 86400,
             'locked_users': sum(1 for email in self.login_attempts 
                                if self.login_attempts[email].get('attempts', 0) >= 3 and
                                self.login_attempts[email].get('lockout_until', 0) > time.time())
