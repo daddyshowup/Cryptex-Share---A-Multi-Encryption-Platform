@@ -1,3 +1,21 @@
 {"timestamp": 1771166277.2784798, "type": "successful_login", "details": {"user": "admin"}}
 {"timestamp": 1771167062.6408138, "type": "successful_login", "details": {"user": "admin"}}
 {"timestamp": 1771167274.7954614, "type": "successful_login", "details": {"user": "admin"}}
+{"timestamp": 1771168070.4481034, "type": "successful_login", "details": {"user": "rohit1"}}
+{"timestamp": 1771168134.4242048, "type": "successful_decrypt", "details": {}}
+{"timestamp": 1771168240.7546718, "type": "successful_login", "details": {"user": "admin"}}
+{"timestamp": 1771168512.7051105, "type": "successful_login", "details": {"user": "rohit1"}}
+{"timestamp": 1771168587.9906971, "type": "successful_decrypt", "details": {}}
+{"timestamp": 1771168702.7567334, "type": "successful_decrypt", "details": {}}
+{"timestamp": 1771169212.8308692, "type": "successful_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771169343.2543128, "type": "successful_decrypt", "details": {"filename": "hello.txt", "share_id": "2d39e180b0c052cfe3d2a55b56e17246"}}
+{"timestamp": 1771169714.9610968, "type": "successful_decrypt", "details": {"filename": "draft.docx", "share_id": "e1b223d307aa5983a7edae864cfb19d6", "type": "binary"}}
+{"timestamp": 1771169790.508668, "type": "successful_login", "details": {"user": "admin"}}
+{"timestamp": 1771170049.0432718, "type": "failed_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771170057.320535, "type": "failed_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771170060.2043977, "type": "failed_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771170060.2053936, "type": "brute_force", "details": {"user": "sandip2"}}
+{"timestamp": 1771170070.26232, "type": "failed_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771170070.2643123, "type": "brute_force", "details": {"user": "sandip2"}}
+{"timestamp": 1771170340.4838123, "type": "successful_login", "details": {"user": "sandip2"}}
+{"timestamp": 1771170394.9199436, "type": "failed_login", "details": {"user": "sandip2"}}
