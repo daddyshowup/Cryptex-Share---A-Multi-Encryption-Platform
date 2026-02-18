@@ -1,0 +1,9 @@
+﻿services:
+  cryptex-share:
+    build: .
+    ports:
+      - "6080:6080"
+    environment:
+      - DISPLAY_WIDTH=1920
+      - DISPLAY_HEIGHT=1080
+      - DISPLAY_DEPTH=24

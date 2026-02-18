@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.git/
+.vscode/
+.idea/
+encryption_suite.db
+security_logs.jsonl
+shared_files.json
+backups/
